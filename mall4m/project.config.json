@@ -6,16 +6,28 @@
 	"setting": {
 		"urlCheck": false,
 		"es6": true,
+		"enhance": false,
 		"postcss": true,
+		"preloadBackgroundData": false,
 		"minified": true,
 		"newFeature": true,
+		"coverView": true,
 		"nodeModules": false,
 		"autoAudits": false,
-		"checkInvalidKey": true
+		"showShadowRootInWxmlPanel": true,
+		"scopeDataCheck": false,
+		"checkInvalidKey": true,
+		"checkSiteMap": true,
+		"uploadWithSourceMap": true,
+		"babelSetting": {
+			"ignore": [],
+			"disablePlugins": [],
+			"outputPath": ""
+		}
 	},
 	"compileType": "miniprogram",
 	"libVersion": "2.6.4",
-	"appid": "wx70da96269d9facc6",
+	"appid": "wxfa2931142082e58b",
 	"projectname": "%E4%BA%9A%E7%B1%B3%E7%A7%91%E6%8A%80mall4j",
 	"debugOptions": {
 		"hidedInDevtools": []
